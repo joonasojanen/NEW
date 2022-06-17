@@ -1,0 +1,4 @@
+tests:
+  scripts:
+    - apt-get install npm
+    - npm --version
